@@ -1,5 +1,5 @@
 // Dynamic skill generation
-const skills = ["HTML", "CSS", "JavaScript", "C++", "Java", "React", "Node.js"];
+const skills = ["SQL","DBMS","HTML", "CSS", "JavaScript", "C++", "Java", "React", "Node.js","Python"];
 const skillList = document.getElementById("skill-list");
 
 skills.forEach(skill => {
